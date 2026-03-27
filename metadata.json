@@ -1,0 +1,8 @@
+{
+  "name": "AI Proctor - Online Exam System",
+  "description": "A production-grade, frontend-only AI-based online exam proctoring system using TensorFlow.js for real-time behavior monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
